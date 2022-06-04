@@ -1,0 +1,26 @@
+#usuario {
+    margin-left: 1250px;
+}
+
+body {
+    margin: 40px;
+}
+
+html {
+    background-color: gray;
+}
+
+.card1 {
+    background-color: #ccc;
+}
+
+.card {
+    display: block;
+    float: left;
+    margin: 100px;
+}
+
+#cartas {
+    background-color: white;
+    height: 800px;
+}

@@ -1,0 +1,26 @@
+
+body {
+    background-color: #ccc;
+}
+
+
+.card-header {
+    margin: 20px;
+    background-color: antiquewhite;
+}
+
+svg {
+    margin-left: 20px;
+}
+
+#sign {
+    margin-left: 1446px;
+}
+
+#login {
+    margin-left: 20px;
+}
+
+form {
+    margin-left: 1024px;
+}

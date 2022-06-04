@@ -1,0 +1,43 @@
+#form {
+    border: 3px solid black;
+    width: 750px;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: #ccc;
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+#icon1 {
+    position: relative ; left: -355px; top: 172px;
+}
+#icon2 {
+    position: relative ; left: -355px; top: 194px;
+}
+#icon3 {
+    position: relative ; left: -355px; top: 217px;
+}
+#icon4 {
+    position: relative ; left: -355px; top: 238px;
+}
+#icon5 {
+    position: relative ; left: -355px; top: 252px;
+}
+
+svg {
+    display: block;
+    float: left;
+    width: 20px;
+}
+
+div {
+    display: block;
+    float: left;
+}
+
+button {
+    width: 100px;
+}

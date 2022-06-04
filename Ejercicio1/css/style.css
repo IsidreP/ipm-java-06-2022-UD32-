@@ -1,0 +1,32 @@
+body {
+    background-color: gray;
+}
+
+.container {
+    margin-top: 338px;
+    width: 400px;
+    height: 300px;
+}
+
+button {
+    width: 374px;
+}
+
+#row {
+    background-color: white;
+    height: 290px; 
+}
+
+#form {
+    height: 200px;
+    background-color: #ccc;
+    margin-top: 90px;
+}
+
+input {
+    margin-top: 24px;
+}
+
+h4 {
+    vertical-align: middle; 
+}
